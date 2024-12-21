@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README Personal</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -123,5 +116,3 @@ Here are some ideas to get you started:
             <p>✨ ¡Gracias por visitar mi perfil! Si tienes interés en colaborar, no dudes en contactarme. ✨</p>
         </footer>
     </div>
-</body>
-</html>
