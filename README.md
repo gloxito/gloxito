@@ -46,4 +46,18 @@ Actualmente, estoy enfocado en aprender y desarrollar mis habilidades en el camp
 
 ---
 
+
+## 🎮 CTFs y Seguridad Activa
+
+Soy apasionado por los CTFs (Capture The Flag) como una forma de aprendizaje práctico en ciberseguridad. Participo en plataformas como:
+
+- 🧩 [The Hacker Labs](https://thehackerlabs.com)
+- 🛠️ [VulnHub](https://www.vulnhub.com)
+- 🎓 [TryHackMe](https://tryhackme.com)
+- 🐱‍💻 [Hack The Box](https://www.hackthebox.com)
+
+📂 Puedes encontrar los reportes y soluciones de mis CTFs en mi [Repositorio de CTFs](https://github.com/gloxito/CTFs).
+
+---
+
 ✨ *¡Gracias por visitar mi perfil! Si tienes interés en colaborar, no dudes en contactarme.* ✨
