@@ -47,5 +47,3 @@ Actualmente, estoy enfocado en aprender y desarrollar mis habilidades en el camp
 ---
 
 ✨ *¡Gracias por visitar mi perfil! Si tienes interés en colaborar, no dudes en contactarme.* ✨
-
-✨ *¡Gracias por visitar mi perfil! Si tienes interés en colaborar, no dudes en contactarme.* ✨
