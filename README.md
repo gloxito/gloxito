@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **gloxito/gloxito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,14 +21,15 @@ Here are some ideas to get you started:
 
 Actualmente, estoy enfocado en aprender y desarrollar mis habilidades en el campo de la ciberseguridad. Mis objetivos incluyen:
 
-- 🖥️ **Estudiar una ingeniería relacionada con tecnologías de la información.**
-- 📜 **Obtener certificados relevantes en ciberseguridad** como `CEH`, `OSCP` y `CISSP`.
+| 🎯 **Objetivo**         | 📋 **Descripción**                                                                          |
+|-------------------------|---------------------------------------------------------------------------------------------|
+| 🎓 **Estudiar Ingeniería** | Profundizar en tecnologías de la información y obtener un título universitario.            |
+| 🛡️ **Certificaciones**     | Obtener certificaciones como `CEH`, `OSCP`, y `CISSP`.                                     |
 
 ---
 
-## 🔧 Habilidades Técnicas
+## 🔧 Lenguajes de Programación
 
-### Lenguajes de Programación
 | Lenguaje       | Nivel         | Uso Principal                |
 |----------------|---------------|------------------------------|
 | 🟨 **JavaScript** | Intermedio    | Desarrollo web dinámico       |
@@ -38,17 +38,14 @@ Actualmente, estoy enfocado en aprender y desarrollar mis habilidades en el camp
 | 🐘 **PHP**        | Intermedio    | Back-end y desarrollo web     |
 | 🐍 **Python**     | Intermedio    | Automatización y scripts      |
 
-### Sistema Operativo
-- 🐦 **Parrot OS** con gestor de ventanas **BSPWM** configurado a medida.
+---
+
+## 💻 Sistema Operativo
+
+- 🐦 **Sistema Principal**: Uso `Parrot OS` con gestor de ventanas `BSPWM` configurado a medida.
 
 ---
 
-## 🎯 Mis Objetivos
-
-- Ampliar mi conocimiento en herramientas de ciberseguridad y hacking ético.
-- Contribuir en proyectos de código abierto relacionados con la seguridad informática.
-- Desarrollar y compartir configuraciones avanzadas para entornos Linux.
-
----
+✨ *¡Gracias por visitar mi perfil! Si tienes interés en colaborar, no dudes en contactarme.* ✨
 
 ✨ *¡Gracias por visitar mi perfil! Si tienes interés en colaborar, no dudes en contactarme.* ✨
