@@ -15,49 +15,48 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 ¡Hola, soy Gh0stN3t!
+# 👋 Hello, I'm Gh0stN3t!
 
-## 🛡️ Estudiante de Ciberseguridad
+## 🛡️ Cybersecurity Student
 
-Actualmente, estoy enfocado en aprender y desarrollar mis habilidades en el campo de la ciberseguridad. Mis objetivos incluyen:
+Currently, I'm focused on learning and developing my skills in the field of cybersecurity. My goals include:
 
-| 🎯 **Objetivo**         | 📋 **Descripción**                                                                          |
-|-------------------------|---------------------------------------------------------------------------------------------|
-| 🎓 **Estudiar Ingeniería** | Profundizar en tecnologías de la información y obtener un título universitario.            |
-| 🛡️ **Certificaciones**     | Obtener certificaciones como `CEH`, `OSCP`, y `CISSP`.                                     |
-
----
-
-## 🔧 Lenguajes de Programación
-
-| Lenguaje       | Nivel         | Uso Principal                |
-|----------------|---------------|------------------------------|
-| 🟨 **JavaScript** | Intermedio    | Desarrollo web dinámico       |
-| 🌐 **HTML**       | Avanzado      | Estructura de sitios web      |
-| 🎨 **CSS**        | Avanzado      | Estilos y diseño visual       |
-| 🐘 **PHP**        | Intermedio    | Back-end y desarrollo web     |
-| 🐍 **Python**     | Intermedio    | Automatización y scripts      |
+| 🎯 **Goal**            | 📋 **Description**                                                                 |
+|------------------------|-------------------------------------------------------------------------------------|
+| 🎓 **Study Engineering**  | Deepen my knowledge in information technology and earn a university degree.         |
+| 🛡️ **Certifications**      | Obtain certifications such as `CEH`, `OSCP`, and `CISSP`.                          |
 
 ---
 
-## 💻 Sistema Operativo
+## 🔧 Programming Languages
 
-- 🐦 **Sistema Principal**: Uso `Parrot OS` con gestor de ventanas `BSPWM` configurado a medida.
+| Language      | Level         | Main Use                        |
+|---------------|---------------|---------------------------------|
+| 🟨 **JavaScript** | Intermediate  | Dynamic web development         |
+| 🌐 **HTML**       | Advanced      | Website structure               |
+| 🎨 **CSS**        | Advanced      | Styling and visual design       |
+| 🐘 **PHP**        | Intermediate  | Back-end and web development    |
+| 🐍 **Python**     | Intermediate  | Automation and scripting         |
 
 ---
 
+## 💻 Operating System
 
-## 🎮 CTFs y Seguridad Activa
+- 🐦 **Main System**: Using `Parrot OS` with a custom-configured window manager `BSPWM`.
 
-Soy apasionado por los CTFs (Capture The Flag) como una forma de aprendizaje práctico en ciberseguridad. Participo en plataformas como:
+---
+
+## 🎮 CTFs and Active Security
+
+I am passionate about CTFs (Capture The Flag) as a practical learning method in cybersecurity. I participate in platforms such as:
 
 - 🧩 [The Hacker Labs](https://thehackerlabs.com)
 - 🛠️ [VulnHub](https://www.vulnhub.com)
 - 🎓 [TryHackMe](https://tryhackme.com)
 - 🐱‍💻 [Hack The Box](https://www.hackthebox.com)
 
-📂 Puedes encontrar los reportes y soluciones de mis CTFs en mi [Repositorio de CTFs](https://github.com/gloxito/CTFs).
+📂 You can find my CTF reports and solutions in my [CTF Repository](https://github.com/gloxito/CTFs).
 
 ---
 
-✨ *¡Gracias por visitar mi perfil! Si tienes interés en colaborar, no dudes en contactarme.* ✨
+✨ *Thanks for visiting my profile! If you're interested in collaborating, feel free to contact me.* ✨
